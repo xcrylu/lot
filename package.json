@@ -1,0 +1,20 @@
+{
+  "name": "my-a-iot",
+  "version": "1.0.0",
+  "description": "this is a test projetion that linking my iot device to aliyun by using mqtt schual.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test-test"
+  },
+  "keywords": [
+    "iot",
+    "aliyun"
+  ],
+  "author": "xcr",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "install": "^0.13.0"
+  }
+}
